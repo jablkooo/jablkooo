@@ -52,28 +52,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jablkooo&theme=react-dark&bg_color=00000000&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jablkooo&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,arch,kali,docker,bash,git,vscode,discord&theme=dark"/>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jablkooo/jablkooo/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/jablkooo/jablkooo/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
 
 </div>
 
@@ -81,9 +60,11 @@
 
 ## About
 
-Czech teenager who takes PCs apart, puts them back together (mostly successfully), and treats "why is this broken" as a personal challenge rather than a problem. Big fan of homelabs, hardware, Linux live-USBs and letting AI help me dig myself deeper into rabbit holes.
+Certified PC-taking-apart enthusiast. Success rate at putting it back together: high-ish. I treat "why is this broken" less like a problem and more like a personal grudge match I refuse to lose.
 
-Not a dev, not an engineer — just someone who really likes figuring stuff out.
+Big fan of homelabs, hardware, booting random Linux distros off USB sticks like a digital hobo, and letting AI help me dig myself deeper into rabbit holes I definitely didn't need to be in.
+
+Not a dev. Not an engineer. Just a guy Google and I figured it out together.
 
 ## What I'm Into
 
