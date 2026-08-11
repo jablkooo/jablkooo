@@ -82,7 +82,7 @@ Hardware is one of my biggest interests.
 
 I enjoy researching components, comparing specifications, building PCs, upgrading systems and going way too deep into details that most people probably don't care about. 😭
 
-My interest goes from **small peripherals and monitors all the way to complete PC and server hardware**.
+My interests range from **small peripherals and mice all the way to complete PC builds and server hardware**.
 
 ### 🖥️ PC Hardware
 
@@ -275,7 +275,7 @@ Sometimes the purpose is simply:
 <details>
 <summary><strong>🏠 Homelab Projects</strong></summary>
 
-Experiments around my own hardware, servers, Linux, storage, Docker and self-hosted software.
+Experiments around my own hardware, servers, Linux, frigate, Docker and self-hosted software.
 
 The homelab is basically my personal playground for infrastructure.
 
