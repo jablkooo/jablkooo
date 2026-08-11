@@ -1,16 +1,16 @@
-# Jakub · jablkooo
+# jablkooo
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,45:4c1d95,75:6d28d9,100:312e81&height=220&section=header&text=Jakub&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GitHub%20%7C%20Open%20Source%20%7C%20Hardware%20%7C%20Homelab%20%7C%20CS2&descAlignY=61&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,45:4c1d95,75:6d28d9,100:312e81&height=200&section=header&text=jablkooo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tinkerer%20%7C%20Gamer%20%7C%20Professional%20Rabbit%20Hole%20Diver&descAlignY=61&descSize=17" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=GitHub+%26+Open+Source+Enjoyer;Hardware+Enthusiast;Homelab+%26+Linux+Enthusiast;AI+%26+Technology+Enthusiast;Following+The+Latest+AI+News;Using+AI+Tools+Every+Day;Counter-Strike+2+Player;Always+Exploring+Something+New;Building%2C+Breaking%2C+Fixing%2C+Repeating." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Breaks+things+on+purpose;Fixes+them+(usually);Powered+by+caffeine+%26+curiosity;Send+help.+Or+hardware." alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/16%20Years%20Old-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/16-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Czechia-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <img src="https://img.shields.io/badge/Open%20Source-6D28D9?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hardware-7C3AED?style=for-the-badge&logo=amd&logoColor=white"/>
@@ -37,345 +37,110 @@
 
 <img src="https://komarev.com/ghpvc/?username=jablkooo&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/jablkooo?style=for-the-badge&color=4C1D95&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/jablkooo?style=for-the-badge&color=7C3AED&label=STARS"/>
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-Hey, I'm **Jakub**, also known online as **jablkooo**.
+<img src="https://github-readme-stats.vercel.app/api?username=jablkooo&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=6D28D9" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jablkooo&theme=transparent&hide_border=true&background=00000000&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6D28D9" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jablkooo&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="150"/>
 
-I'm a 16-year-old tech enthusiast from **Czechia** who spends a lot of time exploring GitHub, discovering open-source projects, experimenting with different tools, building things with AI assistance, and learning by actually doing things.
+</div>
 
-I especially enjoy troubleshooting **Windows and PC problems** — figuring out why something stopped working, finding the cause of an error and trying different ways to fix it.
+<div align="center">
 
-I don't try to pretend I'm a senior developer or an engineer.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jablkooo&theme=react-dark&bg_color=00000000&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="100%"/>
 
-I'm simply someone who genuinely enjoys **technology, hardware, GitHub and experimenting with stuff**.
+</div>
 
-### What I Enjoy
+<div align="center">
 
-- 🔎 Discovering interesting GitHub projects
-- 🌐 Exploring open-source software
-- 🧪 Experimenting with different tools
-- 🖥️ PC hardware and building computers
-- 🎮 Gaming peripherals and monitors
-- 🐧 Linux and different distributions
-- 🏠 Homelabs and self-hosting
-- 🤖 AI tools, new models and the latest AI news
-- 🧠 Following the rapidly evolving AI ecosystem
-- 🔧 Fixing Windows errors and random PC problems
-- 🛠️ Troubleshooting things that suddenly stop working
-- 💻 Finding solutions to weird system issues
-- ⚙️ Experimenting with settings, tools and configurations
-- 🧩 Figuring out why something broke and fixing it
-- 🎮 Counter-Strike 2
-- 🚀 Learning by actually doing things
+<img src="https://github-profile-trophy.vercel.app/?username=jablkooo&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"/>
 
----
+</div>
 
-## Hardware
+<div align="center">
 
-Hardware is one of my biggest interests.
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,arch,kali,docker,bash,git,vscode,discord&theme=dark"/>
 
-I enjoy researching components, comparing specifications, building PCs, upgrading systems and going way too deep into details that most people probably don't care about. 😭
+</div>
 
-My interests range from **small peripherals and mice all the way to complete PC builds and server hardware**.
+<div align="center">
 
-### 🖥️ PC Hardware
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jablkooo/jablkooo/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/jablkooo/jablkooo/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
-- CPUs & GPUs
-- Motherboards
-- RAM
-- NVMe SSDs
-- SATA SSDs
-- HDDs
-- Power supplies
-- CPU cooling
-- PC cases
-- Server hardware
-- Networking hardware
-
-### 🎮 Peripherals
-
-- Gaming mice
-- Keyboards
-- Monitors
-- Headsets & headphones
-- Speakers
-- Controllers
-- Mousepads
-- Other PC accessories
-
-### 🔬 What I Like About Hardware
-
-- Comparing specifications
-- Performance comparisons
-- Price-to-performance
-- PC building
-- Hardware upgrades
-- Finding good deals
-- Testing different components
-- Optimizing setups
-- Learning how hardware actually works
+</div>
 
 ---
 
-## Main PC
+## About
 
-My main machine for gaming, experimenting, hardware testing and basically everything else. This is my **daily driver**.
+Czech teenager who takes PCs apart, puts them back together (mostly successfully), and treats "why is this broken" as a personal challenge rather than a problem. Big fan of homelabs, hardware, Linux live-USBs and letting AI help me dig myself deeper into rabbit holes.
 
-| Component | Specification |
-|---|---|
-| **CPU** | AMD Ryzen 7 5800X3D 10th Anniversary Edition |
-| **GPU** | Gigabyte RX 6900 XT OC 16 GB |
-| **RAM** | 32 GB |
-| **NVMe** | 512 GB |
-| **SSD** | 1 TB 2.5" |
-| **Motherboard** | MSI B550 Gaming Plus |
-| **Case** | Lian Li O11 Vision Compact |
-| **Cooler** | NZXT Kraken Plus 360 |
-| **OS** | Windows 11 Pro / AtlasOS |
+Not a dev, not an engineer — just someone who really likes figuring stuff out.
 
----
+## What I'm Into
 
-## Homelab
+- 🖥️ Building & upgrading PCs
+- 🏠 Homelab & self-hosting
+- 🐧 Linux distros (mostly on flash drives, not as a daily thing)
+- 🔧 Fixing Windows problems nobody asked me to fix
+- 🤖 Following AI news like it's a sport
+- 🎮 Gaming gear & monitors
+- 🧪 Trying random tools just to see what happens
 
-One of my favourite parts of technology is having my own hardware to experiment with.
+## Rigs
 
-My homelab is basically my personal playground for servers, Linux, storage, Docker, self-hosting and random technical experiments.
+**Main PC** — Ryzen 7 5800X3D · RX 6900 XT · 32GB RAM · Windows 11 / AtlasOS
 
-### 🖥️ Server
+**Homelab Server** — Ryzen 5 5500 · RTX 3050 · Ubuntu Server · running way too many Docker containers
 
-| Component | Specification |
-|---|---|
-| **CPU** | AMD Ryzen 5 5500 |
-| **GPU** | MSI RTX 3050 6 GB |
-| **RAM** | 16 GB DDR4 |
-| **Storage** | 3 TB HDD |
-| **Motherboard** | ASUS A320M-K |
-| **OS** | Ubuntu Server |
-
-### Homelab Interests
-
-- Linux servers
-- Self-hosting
-- Docker
-- Storage
-- HDDs and SSDs
-- System utilities
-- Networking
-- Server hardware
-- Monitoring
-- Automation
-- Testing random tools
-
----
-
-## Laptop
-
-### Lenovo ThinkPad T14 Gen 2 AMD
-
-| Component | Specification |
-|---|---|
-| **CPU** | AMD Ryzen 7 PRO 5850U |
-| **Storage** | 512 GB NVMe SSD |
-| **OS** | Windows 11 Pro |
-
-A portable machine for experimenting, troubleshooting and having another system available when needed.
-
----
+Also have a ThinkPad for when I need to look responsible.
 
 ## Linux Corner
-
-I enjoy trying different Linux environments and keeping useful tools available for different situations — mostly through **live / flash-boot USB drives** rather than as a daily OS.
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/CachyOS-6D28D9?style=for-the-badge&logo=archlinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kali%20Linux-4C1D95?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu%20Server-312E81?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows%2011%20Pro-7C3AED?style=for-the-badge&logo=windows11&logoColor=white"/>
 
 </div>
 
-### 🐧 Current / Recent Environments
+Kali & CachyOS live on flash drives for troubleshooting and testing, Ubuntu Server runs the homelab. Windows stays my daily driver — no drama here.
 
-- **Windows 11 Pro / AtlasOS** — daily driver, main PC
-- **Windows 11 Pro** — ThinkPad
-- **CachyOS** — flash-boot / live USB environment
-- **Kali Linux** — live USB and various tools
-- **Ubuntu Server** — homelab
+## Tinkering & Open Source
 
-I like keeping a **USB live environment** available for troubleshooting, testing, recovery and working with disks — CachyOS and Kali both live on flash drives for exactly this purpose.
-
----
-
-## System Tools & Experiments
-
-A lot of my tech time goes into experimenting with tools that are useful for maintaining, troubleshooting or understanding systems.
-
-Things I like messing with include:
-
-- 🛠️ Windows & system troubleshooting
-- 🔧 Fixing system errors and OS bugs
-- 💿 Disk and storage utilities
-- 💻 Live USB environments & recovery tools
-- 🐧 Linux utilities & tweaks
-- ⚙️ Windows configurations and optimizations
-- 🔍 System diagnostics
-- 📦 Random utilities I discover on GitHub
-
-Sometimes the tool is genuinely useful.
-
-Sometimes I just wanted to know what would happen.
-
----
-
-## Open Source
-
-GitHub is one of the places I enjoy spending time the most.
-
-I like discovering projects that I didn't know existed, looking through repositories, trying different tools and occasionally using something as inspiration for my own experiments.
-
-### What I Look For
-
-- 🔭 Interesting repositories
-- 🧰 Useful utilities
-- 🐧 Linux projects
-- 🏠 Homelab software
-- 🔧 System tools
-- 🤖 AI-related projects
-- 🧪 Experimental projects
-- 🌐 Self-hosted software
-
-I don't necessarily need a project to be huge.
-
-If it's interesting, useful or weird enough, I'll probably look at it.
-
----
-
-## Featured Projects
+Spend a lot of time browsing GitHub for interesting or weird projects, and occasionally build my own little experiments.
 
 <details>
-<summary><strong>🧪 Personal Experiments</strong></summary>
+<summary><strong>See what kind of stuff I mess with</strong></summary>
+<br/>
 
-Small personal experiments and utilities created mainly because I wanted to try something.
+- 🧪 **Personal experiments** — small tools built mostly out of curiosity
+- 🏠 **Homelab projects** — Docker, self-hosting, servers, storage
+- 🛠️ **System tools** — recovery, troubleshooting, live-USB setups
 
-The projects don't always have a huge purpose.
-
-Sometimes the purpose is simply:
-
-> "I wonder if I can make this work."
+Most of it exists because I wondered *"can I make this work?"* — not because it had a grand purpose.
 
 </details>
 
-<details>
-<summary><strong>🏠 Homelab Projects</strong></summary>
+## Also Into
 
-Experiments around my own hardware, servers, Linux, frigate, Docker and self-hosted software.
-
-The homelab is basically my personal playground for infrastructure.
-
-</details>
-
-<details>
-<summary><strong>🛠️ System Tools & Utilities</strong></summary>
-
-Experiments involving operating systems, system recovery, live environments and troubleshooting utilities.
-
-A lot of learning happens by actually fixing things when they break.
-
-</details>
+Play a bit of Counter-Strike 2 here and there — casual, just for fun, no tryhard energy.
 
 ---
-
-## Counter-Strike 2
 
 <div align="center">
 
-<a href="https://steamcommunity.com/id/KuabCzz/">
-<img src="https://img.shields.io/badge/Steam-KuabCzz-6D28D9?style=for-the-badge&logo=steam&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,45:6d28d9,75:4c1d95,100:1e1b4b&height=110&section=footer" width="100%"/>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Counter--Strike%202-Main%20Game-4C1D95?style=for-the-badge&logo=counterstrike&logoColor=white"/>
-<img src="https://img.shields.io/badge/CS2-KuabCzz-7C3AED?style=for-the-badge&logo=steam&logoColor=white"/>
+<sub>thanks for scrolling this far ✌️</sub>
 
 </div>
-
-CS2 is probably my biggest hobby outside of tech.
-
-I play under the name **KuabCzz** and spend a pretty unhealthy amount of time playing, improving and messing around in Counter-Strike.
-
-### CS2 Profile
-
-| | |
-|---|---|
-| **Game** | Counter-Strike 2 |
-| **Username** | KuabCzz |
-| **Steam** | [steamcommunity.com/id/KuabCzz](https://steamcommunity.com/id/KuabCzz/) |
-| **Main Hobby** | CS2 |
-| **Playstyle** | Competitive / improvement-focused |
-
-<div align="center">
-
-<a href="https://steamcommunity.com/id/KuabCzz/">
-<img src="https://img.shields.io/badge/View%20Steam%20Profile-6D28D9?style=for-the-badge&logo=steam&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## AI
-
-AI is something I follow pretty closely.
-
-The AI space changes incredibly quickly, so I enjoy keeping up with **new models, releases, tools, companies and interesting developments**.
-
-I also use AI tools frequently for experimenting, learning, researching ideas and turning random concepts into something that actually works.
-
-### 🤖 AI Interests
-
-- New AI models
-- AI news and releases
-- AI coding tools
-- Generative AI
-- Local AI
-- LLMs
-- AI-assisted workflows
-- New AI products and tools
-- Experimenting with the latest technology
-
-I'm not trying to call myself an AI engineer.
-
-I'm just genuinely interested in **where AI is going and what new things are becoming possible**.
-
----
-
-## My Workflow
-
-```text
-Have an idea / Encounter an issue
-     ↓
-"Let's figure this out."
-     ↓
-AI tools
-     ↓
-Something works
-     ↓
-Something breaks
-     ↓
-GitHub / Documentation / Search
-     ↓
-Fix it
-     ↓
-Try something else
-     ↓
-Repeat
-```
-
