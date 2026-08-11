@@ -125,11 +125,11 @@ My interest goes from **small peripherals and monitors all the way to complete P
 
 ## Main PC
 
-My main machine for gaming, experimenting, hardware testing and basically everything else.
+My main machine for gaming, experimenting, hardware testing and basically everything else. This is my **daily driver**.
 
 | Component | Specification |
 |---|---|
-| **CPU** | AMD Ryzen 7 5800X3D 10th Anniversary |
+| **CPU** | AMD Ryzen 7 5800X3D 10th Anniversary Edition |
 | **GPU** | Gigabyte RX 6900 XT OC 16 GB |
 | **RAM** | 32 GB |
 | **NVMe** | 512 GB |
@@ -190,7 +190,7 @@ A portable machine for experimenting, troubleshooting and having another system 
 
 ## Linux Corner
 
-I enjoy trying different Linux environments and keeping useful tools available for different situations.
+I enjoy trying different Linux environments and keeping useful tools available for different situations — mostly through **live / flash-boot USB drives** rather than as a daily OS.
 
 <div align="center">
 
@@ -203,13 +203,13 @@ I enjoy trying different Linux environments and keeping useful tools available f
 
 ### 🐧 Current / Recent Environments
 
-- **CachyOS** — daily Linux environment
+- **Windows 11 Pro / AtlasOS** — daily driver, main PC
+- **Windows 11 Pro** — ThinkPad
+- **CachyOS** — flash-boot / live USB environment
 - **Kali Linux** — live USB and various tools
 - **Ubuntu Server** — homelab
-- **Windows 11 Pro / AtlasOS** — main PC
-- **Windows 11 Pro** — ThinkPad
 
-I also like keeping a **USB live environment** available for troubleshooting, testing, recovery and working with disks.
+I like keeping a **USB live environment** available for troubleshooting, testing, recovery and working with disks — CachyOS and Kali both live on flash drives for exactly this purpose.
 
 ---
 
@@ -377,3 +377,5 @@ Fix it
 Try something else
      ↓
 Repeat
+```
+
