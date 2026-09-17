@@ -183,7 +183,7 @@ I like taking things apart, putting them back together and then wondering why th
 
 <div align="center">
 
-| 👨 Jirulaso43 | 🍎 Kuab |
+| 👨 [Jirulaso43](https://github.com/jirulaso43) | 🍎 [Kuab](https://github.com/jablkooo) |
 | :---: | :---: |
 | 🐧 Linux | 🪟 Windows |
 | 🔐 Cybersecurity | 🌐 Networking |
@@ -194,11 +194,11 @@ I like taking things apart, putting them back together and then wondering why th
 <br>
 
 <a href="https://github.com/jirulaso43">
-<img src="https://img.shields.io/badge/BROTHER-Jirulaso43-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jirulaso43-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/jablkooo">
-<img src="https://img.shields.io/badge/ME-Kuab-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kuab-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
@@ -266,14 +266,14 @@ I like taking things apart, putting them back together and then wondering why th
 </a>
 
 <a href="https://steamcommunity.com/id/KuabCzz/">
-<img src="https://skillicons.dev/icons?i=steam" width="70"/>
+<img src="https://cdn.simpleicons.org/steam/ffffff" width="70"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/GitHub-KuabCzz-111111?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-Kuab-111111?style=for-the-badge&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/Steam-KuabCzz-111111?style=for-the-badge&logo=steam&logoColor=white"/>
+<img src="https://img.shields.io/badge/KuabCzz-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kuab-111111?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/KuabCzz-111111?style=for-the-badge&logo=steam&logoColor=white"/>
 
 </div>
 
