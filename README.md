@@ -1,637 +1,303 @@
 <div align="center">
 
-# 👋 Hi, I'm **Kuab**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:2b0000,100:ff1a1a&height=190&section=header&text=KUAB&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+# `Kuab`
 
 ### `IT • Networking • Homelab • Hardware • Servers • Gaming`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=F5F5F5&center=true&vCenter=true&width=700&lines=Hardware+%E2%86%92+Software+%E2%86%92+Networking;Homelab+%E2%86%92+Something+breaks+%E2%86%92+Fix+it;Future+Network+Infrastructure+Engineer;It+works+on+my+machine+%E2%84%A2;sudo+make+me+better" />
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```text
-I'm Kuab — an IT enthusiast who likes everything from
-PC hardware to servers, networking and software.
-
-Currently learning:
-→ Networking & infrastructure
-→ Linux & servers
-→ Docker & self-hosting
-→ Hardware
-→ Web development
-→ Homelab stuff
-
-Main goal:
-→ Network Infrastructure Engineer 🌐
-```
-
-> 💡 **My philosophy:** If it works, don't touch it.
-> Unless I want to know *why* it works.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,git,github,html,css,js,python,vscode,bash,powershell&perline=7" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Networking-🌐-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Homelab-🏠-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hardware-🔧-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Servers-🖥️-111111?style=for-the-badge" />
-
-</div>
-
----
-
-## 🌐 Networking & Homelab
-
-My favorite part of IT is probably the infrastructure behind everything.
-
-```text
-🌐 Networking
-├── Routers
-├── Switches
-├── Ethernet
-├── Wi-Fi
-├── VPN
-├── Routing
-├── VLANs
-└── Network infrastructure
-
-🏠 Homelab
-├── Ubuntu Server
-├── Docker
-├── Frigate
-├── Homarr
-├── Nginx Proxy Manager
-├── MQTT
-└── Random stuff I decided to self-host
-```
-
-### Current objective
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F5F5F5&center=true&vCenter=true&width=650&lines=Learn+networking;Build+better+homelabs;Understand+servers;Break+less+things;Become+a+Network+Engineer" />
-
----
-
-## 🖥️ My Hardware
-
-### 🖥️ Main PC
-
-| Component   | Hardware                    |
-| ----------- | --------------------------- |
-| CPU         | Ryzen 7 5800X3D             |
-| GPU         | Gigabyte RX 6900 XT OC 16GB |
-| RAM         | 32GB Trident Z              |
-| Motherboard | MSI B550 Gaming Plus        |
-| Storage     | 512GB NVMe + 1TB SSD        |
-| Cooling     | NZXT Kraken Plus 360        |
-| Case        | Lian Li O11 Vision Compact  |
-| PSU         | AORUS P850W 80+ GOLD        |
-
-### 💻 ThinkPad
-
-`ThinkPad T14 Gen 2` • `Ryzen 7 PRO 5850U` • `32GB RAM` • `512GB NVMe`
-
-### 🖥️ Homelab Server
-
-`Ryzen 5 5500` • `RTX 3050 6GB` • `16GB RAM` • `3TB HDD`
-
-**OS:** Ubuntu Server 🐧
-
----
-
-## 🚀 Projects
-
-### 🎬 MůjFlix
-
-**Owner / Developer**
-
-A modern movie & series discovery platform with a cinematic interface.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ROLE-OWNER-black?style=for-the-badge" />
-
-</div>
-
-> 🎬 Discover • Search • Organize • Watch
-
-**Repository:**
-https://github.com/jablkooo/mujflix
-
----
-
-## 🎮 Gaming
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=700&color=F5F5F5&center=true&vCenter=true&width=700&lines=Currently+playing%3A+CS2;Currently+playing%3A+Cyberpunk+2077;Currently+playing%3A+HITMAN;Currently+playing%3A+VALORANT;Currently+playing%3A+Assetto+Corsa;Currently+playing%3A+GTA+V;Currently+playing%3A+Euro+Truck+Simulator+2;Currently+playing%3A+Roblox;Currently+playing%3A+Fortnite" />
-
-</div>
-
-**Main game:** 🎯 Counter-Strike 2
-
-Sometimes I play other games.
-
-Sometimes I install a game, play it for 20 minutes and never open it again.
-
----
-
-## 🎵 FL Studio
-
-I also make beats in FL Studio.
-
-**Skill level:**
-
-`████░░░░░░░░░░░░░░░░ 20%`
-
-**Confidence while making the beat:**
-
-`████████████████████ 100%`
-
-**Confidence after listening to it the next day:**
-
-`█░░░░░░░░░░░░░░░░░░░ 5%`
-
-🎧 Still learning. Still experimenting. Still making questionable decisions.
-
----
-
-## 🤡 IT Self-Roast
-
-<div align="center">
-
-```text
-"Why is it not working?"
-
-     ↓
-
-restart
-
-     ↓
-
-still broken
-
-     ↓
-
-Google
-
-     ↓
-
-YouTube
-
-     ↓
-
-AI
-
-     ↓
-
-copy command
-
-     ↓
-
-IT WORKS
-
-     ↓
-
-I have absolutely no idea why
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hardware+%E2%86%92+Software+%E2%86%92+Networking;Future+Network+Infrastructure+Engineer;Homelab+%E2%86%92+Docker+%E2%86%92+Servers;PC+Builder+%F0%9F%94%A7;CS2+%F0%9F%8E%AF;It+works+on+my+machine+%E2%84%A2" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=F5F5F5&center=true&vCenter=true&width=650&lines=Professional+problem+creator;Part-time+problem+solver;Full-time+Google+user;99%+sure+it's+the+cable;Have+you+tried+turning+it+off+and+on%3F;It+works+on+my+machine+%E2%84%A2" />
+<img src="https://img.shields.io/badge/Windows%2011-Atlas%20OS-111111?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu%20Server-111111?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-111111?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 </div>
 
 ---
 
-## 📊 GitHub
+# `> about_me`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KuabCzz&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KuabCzz&hide_border=true&theme=transparent" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&lines=IT+from+hardware+to+software;I+like+servers.;I+like+networks.;I+like+breaking+things+and+fixing+them.;Future+Network+Infrastructure+Engineer+%F0%9F%8C%90" />
 
 </div>
 
+### 👋 Hi, I'm **Kuab**
+
+I'm an IT enthusiast interested in pretty much everything between **PC hardware and servers**.
+
+My main interests are:
+
+<img src="https://img.shields.io/badge/🖥️%20Hardware-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Networking-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🖥️%20Servers-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏠%20Homelab-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐳%20Docker-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻%20Software-111111?style=for-the-badge"/>
+
+<br><br>
+
+**Main goal:**
+`Network Infrastructure Engineer 🌐`
+
 ---
+
+# `> tech_stack`
 
 <div align="center">
 
-### `sudo make me better`
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,git,github,html,css,js,python,vscode,bash,powershell&theme=dark&perline=7" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=F5F5F5&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+profile!;Don't+forget+to+check+out+my+projects.;And+yes%2C+the+homelab+is+probably+broken+right+now." />
+<br><br>
+
+<img src="https://img.shields.io/badge/Networking-ROUTERS%20%7C%20SWITCHES%20%7C%20VLANs-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Servers-LINUX%20%7C%20DOCKER-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Homelab-SELF%20HOSTED-111111?style=for-the-badge"/>
 
 </div>
+
+---
+
+# `> networking`
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=KUAB&fontSize=70&fontAlignY=35&animation=fadeIn" />
+<img src="https://img.shields.io/badge/🌐%20Routers-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔀%20Switches-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧩%20VLANs-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🛣️%20Routing-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔥%20Firewalls-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔐%20VPN-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📡%20Wi--Fi-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔌%20Ethernet-111111?style=for-the-badge"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Windows+Atlas+OS+%7C+Ubuntu+Server;Network+%26+Homelab+Enjoyer+🌐;Hardware+%E2%86%92+Software+%E2%86%92+Something+Breaks;Vibe+Admin+%F0%9F%92%BB;Future+Network+Engineer+%F0%9F%94%A5;sudo+make+me+competent" />
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1900&pause=600&color=FFFFFF&center=true&vCenter=true&width=700&lines=Router+%E2%9C%93;Switch+%E2%9C%93;VLAN+%E2%9C%93;Routing+%E2%9C%93;VPN+%E2%9C%93;Firewall+%E2%9C%93;Future+Network+Engineer+%F0%9F%8C%90" />
 
 </div>
 
 ---
 
-# `whoami`
+# `> homelab`
 
-```text
-> whoami
+<div align="center">
 
-Kuab
+<img src="https://img.shields.io/badge/Ubuntu%20Server-ONLINE-111111?style=for-the-badge&logo=ubuntu"/>
+<img src="https://img.shields.io/badge/Docker-ONLINE-111111?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Frigate-ONLINE-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Homarr-ONLINE-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nginx%20Proxy%20Manager-ONLINE-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MQTT-ONLINE-111111?style=for-the-badge"/>
 
-Role:
-    IT enthusiast / homelab enjoyer / professional problem creator
+<br><br>
 
-Main interests:
-    🌐 Networking
-    🖥️ Servers & infrastructure
-    🔧 PC hardware
-    🐧 Linux
-    🏠 Homelab
-    🎮 Gaming
-    🎵 FL Studio
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=600&color=FFFFFF&center=true&vCenter=true&width=700&lines=Self--hosted+services;Docker+containers;Camera+server;Network+experiments;Sometimes+something+breaks+%F0%9F%98%AD" />
 
-Current status:
-    Learning ███████████████░░░  ~75%
-    Knowing what I'm doing ███░░░░░░░░░░░░░  ~15%
-    Asking AI ████████████████████ 100%
-```
+</div>
 
----
+### 🏠 Current server
 
-# `neofetch`
-
-```text
-                 .-/+oossssoo+/-.                 kuab@github
-             `:+ssssssssssssssssss+:`             ----------------
-           -+ssssssssssssssssssyyssss+-            OS: Windows 11 Pro / Atlas OS
-         .ossssssssssssssssssdMMMNysssso.          Server: Ubuntu Server
-        /ssssssssssssshdmmNNmmyNMMMMhssss/         Shell: PowerShell / Bash
-       +ssssssssshmydMMMMMMMNddddysssssss+         Focus: Networking / Homelab
-      /sssssssshNMMMyhhyyyyhmNMMMNhssssss/         Editor: VS Code
-     .ssssssssdMMMNhsssssssssshNMMMdssssss.        Brain: 404
-     +sssshhhyNMMNyssssssssssssyNMMMyssss+         Coffee: Required
-     ossyNMMMNyMMhsssssssssssssshmmmhssso          Uptime: Depends
-     ossyNMMMNyMMhsssssssssssssshmmmhssso
-     +sssshhhyNMMNyssssssssssssyNMMMyssss+
-      /sssssssshNMMMyhhyyyyhmNMMMNhssssss/
-       +ssssssssshmydMMMMMMMNddddysssssss+
-        .ossssssssssssssssssdMMMNysssso.
-          -+ssssssssssssssssssyyssss+-`
-             `:+ssssssssssssssssss+:`
-                 .-/+oossssoo+/-.
-```
+<img src="https://img.shields.io/badge/CPU-Ryzen%205%205500-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GPU-RTX%203050%206GB-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAM-16GB-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Storage-3TB%20HDD-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OS-Ubuntu%20Server-111111?style=for-the-badge&logo=ubuntu"/>
 
 ---
 
-# `system_status`
+# `> hardware`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=%5BOK%5D+PC+ONLINE;%5BOK%5D+Homelab+ONLINE;%5BOK%5D+Ubuntu+SERVER+ONLINE;%5BOK%5D+Docker+ONLINE;%5BOK%5D+Networking+ONLINE;%5BOK%5D+GitHub+CONNECTED;%5BWARN%5D+Brain+LOW+ON+RAM;%5BERROR%5D+Common+Sense+NOT+FOUND" />
+## 🖥️ Main PC
 
----
+<div align="center">
 
-# `about`
+<img src="https://img.shields.io/badge/CPU-Ryzen%207%205800X3D-111111?style=for-the-badge&logo=amd"/>
+<img src="https://img.shields.io/badge/GPU-RX%206900%20XT%2016GB-111111?style=for-the-badge&logo=amd"/>
+<img src="https://img.shields.io/badge/RAM-32GB%20Trident%20Z-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Motherboard-MSI%20B550%20Gaming%20Plus-111111?style=for-the-badge"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=I+like+computers.;I+like+networks.;I+like+servers.;I+like+breaking+things.;I+then+spend+3+hours+fixing+them.;If+it+works%2C+I+probably+won't+touch+it+again." />
+<br>
 
-```text
-My usual workflow:
+<img src="https://img.shields.io/badge/NVMe-512GB-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SSD-1TB-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cooling-NZXT%20Kraken%20Plus%20360-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Case-Lian%20Li%20O11%20Vision%20Compact-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PSU-AORUS%20P850W%20GOLD-111111?style=for-the-badge"/>
 
-idea
-  ↓
-Google
-  ↓
-YouTube
-  ↓
-AI
-  ↓
-try it
-  ↓
-ERROR
-  ↓
-AI again
-  ↓
-copy command
-  ↓
-it works
-  ↓
-I have absolutely no idea why
-  ↓
-DON'T TOUCH IT
-```
+</div>
+
+## 💻 ThinkPad T14 Gen 2
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ThinkPad-T14%20Gen%202-111111?style=for-the-badge&logo=lenovo"/>
+<img src="https://img.shields.io/badge/CPU-Ryzen%207%20PRO%205850U-111111?style=for-the-badge&logo=amd"/>
+<img src="https://img.shields.io/badge/RAM-32GB-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NVMe-512GB-111111?style=for-the-badge"/>
+
+</div>
 
 ---
 
-# `homelab`
-
-```text
-🏠 KUAB HOMELAB
-
-Server
-├── Ubuntu Server
-├── Ryzen 5 5500
-├── RTX 3050 6GB
-├── 16GB RAM
-└── 3TB HDD
-
-Services
-├── Docker
-├── Nginx Proxy Manager
-├── Homarr
-├── Frigate
-├── MQTT
-└── more things I probably shouldn't expose to the internet
-
-Network
-├── Ethernet
-├── Switches
-├── Routers
-├── VLANs ──────────────── [learning]
-├── Firewalls ──────────── [learning]
-├── VPN / Tailscale
-└── "why is the ping 160ms?"
-```
-
-> **Homelab philosophy:**
-> If something can be automated, I'll automate it.
-> If it can't be automated, I'll probably ask AI how.
-
----
-
-# `hardware`
-
-### 🖥️ Main PC
-
-```text
-CPU      Ryzen 7 5800X3D
-GPU      Gigabyte RX 6900 XT OC 16GB
-RAM      32GB Trident Z
-BOARD    MSI B550 Gaming Plus
-STORAGE  512GB NVMe + 1TB SSD
-COOLING  NZXT Kraken Plus 360
-CASE     Lian Li O11 Vision Compact
-PSU      AORUS P850W 80+ GOLD
-```
-
-### 💻 ThinkPad
-
-```text
-ThinkPad T14 Gen 2
-Ryzen 7 PRO 5850U
-32GB RAM
-512GB NVMe
-```
-
-### 🖥️ Server
-
-```text
-Ryzen 5 5500
-RTX 3050 6GB
-16GB RAM
-3TB HDD
-Ubuntu Server
-```
-
----
-
-# `projects`
+# `> projects`
 
 ## 🎬 MůjFlix
 
-**Owner / Developer**
+<div align="center">
 
-A modern movie & series discovery project built together with my brother.
+<img src="https://img.shields.io/badge/MůjFlix-ACTIVE-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ROLE-OWNER-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-111111?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=600&color=FFFFFF&center=true&vCenter=true&width=700&lines=Movie+Discovery;TV+Shows;Search;Modern+Dark+UI;Glassmorphism;Cinematic+Design" />
+
+<br>
+
+<a href="https://github.com/jablkooo/mujflix">
+<img src="https://img.shields.io/badge/🎬%20View%20MůjFlix-111111?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+A movie & series discovery project I'm working on.
+
+**Made together with my brother — Jirulaso43.** 🤝
+
+---
+
+# `> gaming`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎯%20Counter--Strike%202-MAIN-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎮%20PC%20Gaming-111111?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1600&pause=500&color=FFFFFF&center=true&vCenter=true&width=750&lines=Launching+CS2...;Connecting+to+server...;13ms+PING...;160ms+PING...;WHY%3F;Restarting+network...;Back+to+13ms+%F0%9F%98%AD" />
+
+<br>
+
+<img src="https://img.shields.io/badge/CS2-🎯-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cyberpunk%202077-🎮-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HITMAN-🎮-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VALORANT-🎮-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GTA%20V-🎮-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Assetto%20Corsa-🎮-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Euro%20Truck%20Simulator%202-🎮-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Roblox-🎮-111111?style=for-the-badge"/>
+
+</div>
+
+---
+
+# `> music`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FL%20Studio-111111?style=for-the-badge&logo=flstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Beatmaking-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎧%20Still%20Learning-111111?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1900&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=Open+FL+Studio;Make+a+beat;Think+it's+fire+%F0%9F%94%A5;Listen+again+tomorrow;Delete+half+the+project;Repeat" />
+
+</div>
+
+---
+
+# `> brother_mode`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/👨‍💻%20Jirulaso43-Linux%20%7C%20Cybersecurity-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🖥️%20Kuab-Networking%20%7C%20Homelab-111111?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&lines=Two+brothers.;Two+different+IT+paths.;Same+Wi--Fi.;Same+bugs.;Same+Google+searches.;Different+skill+trees+%F0%9F%98%AD" />
+
+</div>
+
+---
+
+# `> currently_learning`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🌐%20Networking-LEARNING-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐧%20Linux-LEARNING-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐳%20Docker-LEARNING-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🖥️%20Servers-LEARNING-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔐%20Security-LEARNING-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Web%20Development-LEARNING-111111?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1900&pause=600&color=FFFFFF&center=true&vCenter=true&width=700&lines=Learning+every+day;Breaking+homelab+services;Fixing+network+issues;Building+projects;Trying+to+understand+everything" />
+
+</div>
+
+---
+
+# `> terminal`
 
 ```text
-STATUS    [ BUILDING ]
-TEAM      [ 2 ]
-ROLE      [ OWNER ]
+kuab@homelab:~$ ping google.com
 
-Frontend  → Modern cinematic UI
-Design    → Dark / glassmorphism
-Goal      → Make finding something to watch less painful
-```
+64 bytes from google.com
+time=13ms
 
-Repository:
+64 bytes from google.com
+time=160ms
 
-`https://github.com/jablkooo/mujflix`
+kuab@homelab:~$ WHY
 
-```text
-me + brother
-     │
-     ├── idea
-     ├── code
-     ├── debugging
-     ├── "why doesn't this work?"
-     └── MůjFlix
+Network Engineer.exe has stopped working.
+
+kuab@homelab:~$ sudo reboot
+
+✓ probably fixed
 ```
 
 ---
 
-# `networking`
+# `> github`
 
-```text
-INTEREST LEVEL
+<div align="center">
 
-Networking          ████████████████████ 100%
-Servers             █████████████████░░░  85%
-Homelab             ███████████████████░  95%
-Hardware            ████████████████████ 100%
-Linux               ███████████████░░░░░  75%
-Programming         ████████░░░░░░░░░░░░  40%
-Knowing networking   █████████░░░░░░░░░░░  45%
-Breaking networking  ████████████████████ 100%
-```
+<img src="https://github-readme-stats.vercel.app/api?username=KuabCzz&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ff1a1a"/>
 
-### Things I want to get really good at
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KuabCzz&hide_border=true&theme=transparent&ring=ff1a1a&fire=ff1a1a&currStreakLabel=ffffff"/>
 
-```text
-Switches
-Routers
-VLANs
-Routing
-Firewalls
-VPNs
-Wi-Fi
-Servers
-Network infrastructure
-Data center stuff
-```
+<br><br>
 
-**Future goal:**
-`Network Infrastructure Engineer`
+<img src="https://github-profile-trophy.vercel.app/?username=KuabCzz&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 
----
-
-# `skills`
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,git,github,html,css,js,python,vscode,bash" />
-
-</p>
-
-```text
-Hardware        ████████████████████
-Networking      █████████████████░░░
-Linux           ███████████████░░░░░
-Docker          ███████████████░░░░░
-Git/GitHub      ████████████████░░░░
-Programming     ███████░░░░░░░░░░░░░
-```
-
----
-
-# `music`
-
-### 🎵 FL Studio
-
-I make beats.
-
-At least technically.
-
-```text
-Open FL Studio
-      ↓
-make beat
-      ↓
-"this actually sounds good"
-      ↓
-listen again
-      ↓
-"what the fuck is this"
-      ↓
-change everything
-      ↓
-make it worse
-      ↓
-save project
-      ↓
-never open it again
-```
-
-**Producer status:**
-
-`Beginner █████░░░░░░░░░░░░░░`
-
-**Confidence:**
-
-`████████████████████ 100%`
-
-**Actual skill:**
-
-`███░░░░░░░░░░░░░░░░░ 15%`
-
----
-
-# `gaming`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&lines=CS2+%F0%9F%94%AB;Cyberpunk+2077+%F0%9F%8F%99%EF%B8%8F;HITMAN+%F0%9F%95%B4%EF%B8%8F;VALORANT+%F0%9F%8E%AF;Assetto+Corsa+%F0%9F%8F%8E;Roblox+%F0%9F%A7%B1;Euro+Truck+Simulator+2+%F0%9F%9A%9B;Fortnite+%F0%9F%8E%AE;GTA+V+%F0%9F%92%B0;and+way+too+many+other+games..." />
-
-```text
-Main game:
-    CS2
-
-Current gaming strategy:
-    lose
-    blame ping
-    blame teammates
-    check ping
-    realize ping was fine
-    blame myself
-    queue again
-```
-
----
-
-# `terminal`
-
-```bash
-$ sudo apt update
-
-[sudo] password for kuab:
-Sorry, try again.
-
-[sudo] password for kuab:
-Sorry, try again.
-
-[sudo] password for kuab:
-Sorry, try again.
-
-sudo: 3 incorrect password attempts
-
-$ echo "skill issue"
-
-skill issue
-```
-
-```bash
-$ docker compose up -d
-
-[+] Running 7/7
- ✔ Network created
- ✔ Container started
- ✔ Container started
- ✔ Container started
- ✔ Container started
- ✔ Container started
- ✔ Everything works
-
-$ docker ps
-
-CONTAINER ID   STATUS
-????????       Up
-????????       Up
-????????       Up
-????????       Up
-
-$ docker ps
-
-CONTAINER ID   STATUS
-????????       Restarting (1)
-????????       Restarting (1)
-????????       Restarting (1)
-
-$ echo "don't touch it"
-
-don't touch it
-```
-
----
-
-# `statistics`
-
-<img src="https://github-readme-stats.vercel.app/api?username=KuabCzz&show_icons=true&hide_border=true&theme=transparent" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KuabCzz&hide_border=true&theme=transparent" />
-
----
-
-# `contact`
-
-```text
-GitHub   → github.com/KuabCzz
-Discord  → Kuab
-Steam    → KuabCzz
-```
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Connection+closed.;No+errors+were+fixed+in+the+making+of+this+README.;It+works+on+my+machine+%E2%84%A2;sudo+make+me+better" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2400&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;The+homelab+is+probably+fine.;Probably.;See+you+on+the+network+%F0%9F%8C%90" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1a1a,50:2b0000,100:111111&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
+```
+
+Tohle už bych **fakt držel jako „bratrská edice“**: brácha = Linux/Cybersecurity/ThinkPad, ty = **Networking/Homelab/Hardware/Servers**. A zároveň je tam výrazně víc ikon a vizuálních prvků než terminálu.
+
+Jen bych ještě před finálním nasazením případně doladil **ikony přesně podle toho, co opravdu používáš**, aby README netvrdilo třeba Python/JS jen proto, že to dobře vypadá.
