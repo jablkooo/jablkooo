@@ -122,16 +122,10 @@ I like taking things apart, putting them back together and then wondering why th
 <div align="center">
 
 <a href="https://github.com/jablkooo/mujflix">
-
-<img src="https://www.image2url.com/r2/default/images/1777708112367-082f9e07-a063-437c-933a-bdc2451dc438.png" width="100" alt="MůjFlix"/>
-
-<br><br>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jablkooo&repo=mujflix&theme=dark&hide_border=true" />
-
+<img src="https://www.image2url.com/r2/default/images/1777708112367-082f9e07-a063-437c-933a-bdc2451dc438.png" width="120" alt="MůjFlix"/>
 </a>
 
-<br>
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Modern+movie+%26+series+discovery;Cinematic+dark+UI;Glassmorphism;Vanilla+JavaScript;Still+in+work..." />
 
@@ -237,23 +231,7 @@ I like taking things apart, putting them back together and then wondering why th
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jablkooo&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jablkooo&layout=compact&theme=dark&hide_border=true" height="170"/>
-
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jablkooo&theme=dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-psi.vercel.app/?username=jablkooo&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 
 </div>
 
