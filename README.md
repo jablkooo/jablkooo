@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Windows_11-Atlas_OS-111111?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows_11-AtlasOS-111111?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu_Server-111111?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Networking-111111?style=for-the-badge&logo=cisco&logoColor=white"/>
@@ -19,21 +19,13 @@
 
 <img align="right" src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,git,github" width="270"/>
 
-### 🖥️ Hardware
-
-### 🌐 Networking
-
-### 🐳 Homelab
-
-### 🗄️ Servers
-
-### 💻 Software
-
 Future **Network Infrastructure Engineer**.
 
 I like taking things apart, putting them back together and then wondering why the ping is 160 ms.
 
-<br clear="right"/>
+**Focus areas:** 🖥️ Hardware · 🌐 Networking · 🐳 Homelab · 🗄️ Servers · 💻 Software
+
+<br clear="all"/>
 
 ---
 
@@ -130,9 +122,7 @@ I like taking things apart, putting them back together and then wondering why th
 <div align="center">
 
 <a href="https://github.com/jablkooo/mujflix">
-
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jablkooo&repo=mujflix&theme=dark&hide_border=true" />
-
 </a>
 
 <br>
@@ -155,7 +145,7 @@ I like taking things apart, putting them back together and then wondering why th
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CS2-111111?style=for-the-badge&logo=counterstrike&logoColor=white"/>
+<img src="https://img.shields.io/badge/CS2-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CYBERPUNK_2077-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HITMAN-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ROBLOX-111111?style=for-the-badge"/>
@@ -193,13 +183,13 @@ I like taking things apart, putting them back together and then wondering why th
 
 <div align="center">
 
-|  👨 `Jirulaso43` |   🍎 `Kuab`   |
-| :--------------: | :-----------: |
-|     🐧 Linux     |   🪟 Windows  |
+| 👨 Jirulaso43 | 🍎 Kuab |
+| :---: | :---: |
+| 🐧 Linux | 🪟 Windows |
 | 🔐 Cybersecurity | 🌐 Networking |
-|   🛡️ Security   |  🖥️ Hardware |
-| 💻 Linux Desktop |   🐳 Homelab  |
-| 🧠 Cybersecurity |  🗄️ Servers  |
+| 🛡️ Security | 🖥️ Hardware |
+| 💻 Linux Desktop | 🐳 Homelab |
+| 🧠 Cybersecurity | 🗄️ Servers |
 
 <br>
 
