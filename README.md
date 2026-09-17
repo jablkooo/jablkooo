@@ -1,5 +1,240 @@
 <div align="center">
 
+# 👋 Hi, I'm **Kuab**
+
+### `IT • Networking • Homelab • Hardware • Servers • Gaming`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=F5F5F5&center=true&vCenter=true&width=700&lines=Hardware+%E2%86%92+Software+%E2%86%92+Networking;Homelab+%E2%86%92+Something+breaks+%E2%86%92+Fix+it;Future+Network+Infrastructure+Engineer;It+works+on+my+machine+%E2%84%A2;sudo+make+me+better" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```text
+I'm Kuab — an IT enthusiast who likes everything from
+PC hardware to servers, networking and software.
+
+Currently learning:
+→ Networking & infrastructure
+→ Linux & servers
+→ Docker & self-hosting
+→ Hardware
+→ Web development
+→ Homelab stuff
+
+Main goal:
+→ Network Infrastructure Engineer 🌐
+```
+
+> 💡 **My philosophy:** If it works, don't touch it.
+> Unless I want to know *why* it works.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,git,github,html,css,js,python,vscode,bash,powershell&perline=7" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Networking-🌐-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Homelab-🏠-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hardware-🔧-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Servers-🖥️-111111?style=for-the-badge" />
+
+</div>
+
+---
+
+## 🌐 Networking & Homelab
+
+My favorite part of IT is probably the infrastructure behind everything.
+
+```text
+🌐 Networking
+├── Routers
+├── Switches
+├── Ethernet
+├── Wi-Fi
+├── VPN
+├── Routing
+├── VLANs
+└── Network infrastructure
+
+🏠 Homelab
+├── Ubuntu Server
+├── Docker
+├── Frigate
+├── Homarr
+├── Nginx Proxy Manager
+├── MQTT
+└── Random stuff I decided to self-host
+```
+
+### Current objective
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F5F5F5&center=true&vCenter=true&width=650&lines=Learn+networking;Build+better+homelabs;Understand+servers;Break+less+things;Become+a+Network+Engineer" />
+
+---
+
+## 🖥️ My Hardware
+
+### 🖥️ Main PC
+
+| Component   | Hardware                    |
+| ----------- | --------------------------- |
+| CPU         | Ryzen 7 5800X3D             |
+| GPU         | Gigabyte RX 6900 XT OC 16GB |
+| RAM         | 32GB Trident Z              |
+| Motherboard | MSI B550 Gaming Plus        |
+| Storage     | 512GB NVMe + 1TB SSD        |
+| Cooling     | NZXT Kraken Plus 360        |
+| Case        | Lian Li O11 Vision Compact  |
+| PSU         | AORUS P850W 80+ GOLD        |
+
+### 💻 ThinkPad
+
+`ThinkPad T14 Gen 2` • `Ryzen 7 PRO 5850U` • `32GB RAM` • `512GB NVMe`
+
+### 🖥️ Homelab Server
+
+`Ryzen 5 5500` • `RTX 3050 6GB` • `16GB RAM` • `3TB HDD`
+
+**OS:** Ubuntu Server 🐧
+
+---
+
+## 🚀 Projects
+
+### 🎬 MůjFlix
+
+**Owner / Developer**
+
+A modern movie & series discovery platform with a cinematic interface.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ROLE-OWNER-black?style=for-the-badge" />
+
+</div>
+
+> 🎬 Discover • Search • Organize • Watch
+
+**Repository:**
+https://github.com/jablkooo/mujflix
+
+---
+
+## 🎮 Gaming
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=700&color=F5F5F5&center=true&vCenter=true&width=700&lines=Currently+playing%3A+CS2;Currently+playing%3A+Cyberpunk+2077;Currently+playing%3A+HITMAN;Currently+playing%3A+VALORANT;Currently+playing%3A+Assetto+Corsa;Currently+playing%3A+GTA+V;Currently+playing%3A+Euro+Truck+Simulator+2;Currently+playing%3A+Roblox;Currently+playing%3A+Fortnite" />
+
+</div>
+
+**Main game:** 🎯 Counter-Strike 2
+
+Sometimes I play other games.
+
+Sometimes I install a game, play it for 20 minutes and never open it again.
+
+---
+
+## 🎵 FL Studio
+
+I also make beats in FL Studio.
+
+**Skill level:**
+
+`████░░░░░░░░░░░░░░░░ 20%`
+
+**Confidence while making the beat:**
+
+`████████████████████ 100%`
+
+**Confidence after listening to it the next day:**
+
+`█░░░░░░░░░░░░░░░░░░░ 5%`
+
+🎧 Still learning. Still experimenting. Still making questionable decisions.
+
+---
+
+## 🤡 IT Self-Roast
+
+<div align="center">
+
+```text
+"Why is it not working?"
+
+     ↓
+
+restart
+
+     ↓
+
+still broken
+
+     ↓
+
+Google
+
+     ↓
+
+YouTube
+
+     ↓
+
+AI
+
+     ↓
+
+copy command
+
+     ↓
+
+IT WORKS
+
+     ↓
+
+I have absolutely no idea why
+```
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=F5F5F5&center=true&vCenter=true&width=650&lines=Professional+problem+creator;Part-time+problem+solver;Full-time+Google+user;99%+sure+it's+the+cable;Have+you+tried+turning+it+off+and+on%3F;It+works+on+my+machine+%E2%84%A2" />
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KuabCzz&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KuabCzz&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `sudo make me better`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=F5F5F5&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+profile!;Don't+forget+to+check+out+my+projects.;And+yes%2C+the+homelab+is+probably+broken+right+now." />
+
+</div>
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=KUAB&fontSize=70&fontAlignY=35&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Windows+Atlas+OS+%7C+Ubuntu+Server;Network+%26+Homelab+Enjoyer+🌐;Hardware+%E2%86%92+Software+%E2%86%92+Something+Breaks;Vibe+Admin+%F0%9F%92%BB;Future+Network+Engineer+%F0%9F%94%A5;sudo+make+me+competent" />
