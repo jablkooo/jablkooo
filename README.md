@@ -41,7 +41,7 @@ I like taking things apart, putting them back together and then wondering why th
 
 ## 🌐 Networking
 
-<img src="https://skillicons.dev/icons?i=cisco,linux" />
+<img src="https://skillicons.dev/icons?i=cisco" />
 
 <br>
 
@@ -62,7 +62,7 @@ I like taking things apart, putting them back together and then wondering why th
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ubuntu,docker,nginx,mqtt" />
+<img src="https://skillicons.dev/icons?i=ubuntu,docker,nginx" />
 
 <br><br>
 
@@ -132,6 +132,18 @@ I like taking things apart, putting them back together and then wondering why th
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br><br>
+
+> 🚧 **Still in work** — actively being developed.
+>
+> 👨‍💻 **Owner:** [jablkooo](https://github.com/jablkooo) &nbsp;•&nbsp; 🤝 **Co-owner:** [jirulaso43](https://github.com/jirulaso43)
+
+<br>
+
+<a href="https://github.com/jablkooo/mujflix">
+<img src="https://img.shields.io/badge/VIEW_REPO-M%C5%AFjFlix-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
