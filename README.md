@@ -203,6 +203,16 @@ I like taking things apart, putting them back together and then wondering why th
 
 <br>
 
+<a href="https://github.com/jirulaso43">
+<img src="https://img.shields.io/badge/BROTHER-Jirulaso43-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jablkooo">
+<img src="https://img.shields.io/badge/ME-Kuab-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:330000&height=70&section=header&text=DIFFERENT%20PATHS%20%E2%80%A2%20SAME%20NERDY%20FAMILY&fontSize=18&fontColor=ffffff"/>
 
 </div>
@@ -231,13 +241,13 @@ I like taking things apart, putting them back together and then wondering why th
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KuabCzz&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jablkooo&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuabCzz&layout=compact&theme=dark&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jablkooo&layout=compact&theme=dark&hide_border=true" height="170"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KuabCzz&theme=dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jablkooo&theme=dark&hide_border=true"/>
 
 </div>
 
@@ -247,7 +257,7 @@ I like taking things apart, putting them back together and then wondering why th
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KuabCzz&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jablkooo&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 </div>
 
@@ -257,15 +267,15 @@ I like taking things apart, putting them back together and then wondering why th
 
 <div align="center">
 
-<a href="https://github.com/KuabCzz">
+<a href="https://github.com/jablkooo">
 <img src="https://skillicons.dev/icons?i=github" width="70"/>
 </a>
 
-<a href="https://discord.com/">
+<a href="https://discord.com/users/989562492697063474">
 <img src="https://skillicons.dev/icons?i=discord" width="70"/>
 </a>
 
-<a href="https://store.steampowered.com/">
+<a href="https://steamcommunity.com/id/KuabCzz/">
 <img src="https://skillicons.dev/icons?i=steam" width="70"/>
 </a>
 
