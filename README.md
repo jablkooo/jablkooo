@@ -62,7 +62,7 @@ I like taking things apart, putting them back together and then wondering why th
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ubuntu,docker,nginx" />
+<img src="https://skillicons.dev/icons?i=ubuntu,docker,nginx" /><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/homarr.png" width="48" />
 
 <br><br>
 
